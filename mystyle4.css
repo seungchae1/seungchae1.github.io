@@ -1,0 +1,9 @@
+#image{
+float: right;
+}
+#desc{
+float: left;
+width: 500px;
+margin-right: 50px;
+line-height: 50px;
+}
