@@ -1,9 +1,8 @@
 #image{
-float: right;
+float: left;
+margin-right: 500px;
 }
 #desc{
 float: left;
-width: 500px;
-margin-right: 50px;
-line-height: 50px;
+margin-left:5px;
 }
